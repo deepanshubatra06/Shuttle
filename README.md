@@ -1,10 +1,7 @@
-# React starter project
+# Shuttle 
 
-A minimal project to get started with React:
+A minimal google Maps React page made using React-google-maps
 
-* webpack and webpack-dev-server
-* ES6 and JSX via Babel 
-* hot module reloading via [React Hot Loader](https://github.com/gaearon/react-hot-loader)
 
 Installation:
 
