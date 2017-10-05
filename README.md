@@ -6,7 +6,7 @@ A minimal google Maps React page made using React-google-maps
 Installation:
 
 ```
-git clone git@github.com:rauschma/react-starter-project.git
+git clone git@github.com:deepanshubatra06/Shuttle.git
 cd react-starter-project
 npm install
 ```
