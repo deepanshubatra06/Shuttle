@@ -7,7 +7,6 @@ Installation:
 
 ```
 git clone https://github.com/deepanshubatra06/Shuttle.git
-cd react-starter-project
 npm install
 ```
 
